@@ -1,1 +1,2 @@
 # odin-recipes
+This project is part of <a href="https://theodinproject.com">The Odin Project</a> Full Stack Web Developer Course. It´s intended to be a recipes website when completed. My intentions with this project is to learn and demonstrate my abilities with HTML and CSS
